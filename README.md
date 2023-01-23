@@ -5,6 +5,7 @@
 <p>Welcome to my page! </br> I'm Jurepi, Fullstack developer from <b>seongsu-dong</b>, currently living in <img src="https://cdn-icons-png.flaticon.com/128/4482/4482887.png" class="" data-premium="0" width="13"/> <b>Seoul, Korea</b>. </p>
 
 <br />
+
 <h2> My tech stack 📚</h2>
 
 ![HTML5](https://img.shields.io/badge/-HTML5-F05032?style=for-the-badge&logo=html5&logoColor=ffffff)
@@ -25,6 +26,7 @@
 ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=MariaDB&logoColor=white)
 
 <br />
+
 ## Challenges 🏃
 - [Drinking 2 litres of water a day](https://band.us/band/86219552)
 - [좋은 습관 만들기 II](https://band.us/band/86887900)
@@ -32,12 +34,14 @@
 - [푸쉬업100개챌린지](https://cafe.naver.com/ArticleList.nhn?search.clubid=30876701&search.menuid=5&search.boardtype=L)
 
 <br />
+
 ## Follow Me 👬
 - <a href="https://blog.naver.com/dhan0213"><img src="https://img.shields.io/badge/Blog-63ce57?style=flat-square&logo=Naver&logoColor=white&link=https://danhee.an"/></a>
 - <a href="https://www.facebook.com/danhee.an/"><img src="https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white&link=https://www.facebook.com/danhee.an"/></a>
 - <a href="mailto:danhee.an@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=danhee.an@gmail.com"/></a>
 
 <br />
+
 ## Favorite ❤️
 - [깃허브 계정 제대로 꾸미기](https://www.youtube.com/watch?v=w9DfC2BHGPA)
 - [Awesome GitHub Profile README](https://github.com/abhisheknaiidu/awesome-github-profile-readme)
