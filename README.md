@@ -25,22 +25,23 @@ Muyaho! Nice to see you.</h1>
 ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=MariaDB&logoColor=white)
 
 <br />
-<h2> Challenges 🏃</h2>
+
+## Challenges 🏃
 - Drinking 2 litres of water a day
 - 좋은 습관 만들기 II
 - [노개북 IT 5분 잡학사전](https://nomadcoders.co/c/it-dictionary/lobby)
 - [푸쉬업100개오운완](https://cafe.naver.com/ordinaryfit) 
 
-<h2> Follow Me </h2>
-  <a href="https://velog.io/@hyeinisfree"><img src="https://img.shields.io/badge/Tech%20Blog-11B48A?style=flat-square&logo=Vimeo&logoColor=white&link=https://velog.io/@hyeinisfree"/></a>&nbsp
-  <a href="https://www.instagram.com/dev.dobby/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/hye_inisfree/"/></a>&nbsp
-  <a href="mailto:kimhyein7110@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=kimhyein7110@gmail.com"/></a>
+## Follow Me
+- <a href="https://blog.naver.com/dhan0213"><img src="https://img.shields.io/badge/Tech%20Blog-63ce57?style=flat-square&logo=Naver&logoColor=white&link=https://danhee.an"/></a>
+- <a href="https://www.instagram.com/dev.dobby/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/hye_inisfree/"/></a>
+- <a href="mailto:danhee.an@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=danhee.an@gmail.com"/></a>
 
-<h3> Favorite </h3>
+## Favorite
 - https://dev.to/envoy_/150-badges-for-github-pnk
-  https://github.com/abhisheknaiidu/awesome-github-profile-readme
-  https://www.youtube.com/watch?v=w9DfC2BHGPA
-https://security-nanglam.tistory.com/491
+- https://github.com/abhisheknaiidu/awesome-github-profile-readme
+- https://www.youtube.com/watch?v=w9DfC2BHGPA
+- https://security-nanglam.tistory.com/491
 
 
 <!--
