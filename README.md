@@ -54,6 +54,7 @@
 
 ## Favorite Github :octocat: Users <img alt="looking yoyo" title="looking yoyo" loading="lazy" src="https://emojis.slackmojis.com/emojis/images/1643514239/2078/looking.gif?1643514239" width="30"/> 
 
+- [노마드 코더](https://github.com/serranoarevalo)
 - [명기범 (Alex)](https://github.com/giibeom)
 
 <br />
