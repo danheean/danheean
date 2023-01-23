@@ -28,7 +28,7 @@
 <br />
 
 ## Challenges 🏃
-- [Drinking 2 litres of water a day](https://band.us/band/86219552)
+- [하루 물 2리터 마시기](https://band.us/band/86219552)
 - [좋은 습관 만들기 II](https://band.us/band/86887900)
 - [노개북 IT 5분 잡학사전](https://nomadcoders.co/c/it-dictionary/lobby)
 - [푸쉬업100개챌린지](https://cafe.naver.com/ArticleList.nhn?search.clubid=30876701&search.menuid=5&search.boardtype=L)
