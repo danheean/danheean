@@ -50,6 +50,13 @@
 - [[GitHub] Emoji 모음](https://security-nanglam.tistory.com/491)
 - [Slackmojis](https://slackmojis.com/)
 
+<br />
+
+
+
+## Favorite Github :octocat: User <img alt="looking yoyo" title="looking yoyo" loading="lazy" src="https://emojis.slackmojis.com/emojis/images/1643514239/2078/looking.gif?1643514239" width="30"/> 
+
+- [명기범 (Alex)](https://github.com/giibeom)
 
 <!--
 **danheean/danheean** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
